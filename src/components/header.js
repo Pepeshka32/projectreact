@@ -5,11 +5,10 @@ export function Header() {
     <div className="header">
       <div className="rectangle-656"></div>
       <div className="rectangle-657"></div>
-      <img className="vector-91" src="vector-910.svg" alt="vector" />
       <img className="image2" src="image.png" alt="logo" />
       <div className="rectangle-658"></div>
       <div className="div5">Пошук...</div>
-      <img className="vector" src="vector0.svg" alt="search icon" />
+      <img className="vector" src="vector5.png" alt="search icon" />
       <div className="blog">
         <div className="rectangle-10"></div>
         <div className="div6">Блог</div>
@@ -42,10 +41,10 @@ export function Header() {
         <img className="group-1622" src="group 162.png" alt="menu icon" />
         <div className="div13">Меню</div>
       </div>
-      <img className="vector-109" src="vector-1090.svg" alt="decor" />
+      
       <div className="group-200">
         <div className="hyggy2">HYGGY Київ ТЦ Променада</div>
-        <img className="group-199" src="group-1990.svg" alt="location icon" />
+        <img className="group-199" src="group 199.png" alt="location icon" />
       </div>
     </div>
   );

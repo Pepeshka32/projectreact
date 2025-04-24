@@ -5,7 +5,7 @@ export function Prefooter() {
     <div className="prefooter">
       <div className="rectangle-6572"></div>
       <div className="rectangle-659"></div>
-      <img className="vector-912" src="vector-911.svg" alt="decorative vector" />
+      
       <div className="div39">Ім’я</div>
       <div className="e-mail">E-mail</div>
       <div className="div40">
