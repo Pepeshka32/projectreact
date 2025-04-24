@@ -1,7 +1,8 @@
 import './App.css';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { Header } from './components/header.js';
-import { MainPage } from './components/mainpage.js';
+import { AboutUs } from './components/abous us.js';
+import { Conection } from './components/connection.js';
 import { Prefooter } from './components/prefooter.js';
 import { Footer } from './components/footer.js';
 
@@ -11,8 +12,8 @@ function App() {
     <BrowserRouter>
       <Header >
       </Header>
-      <MainPage>
-      </MainPage>
+      <AboutUs>
+      </AboutUs>
       <Prefooter>
       </Prefooter>
       <Footer>
@@ -20,6 +21,7 @@ function App() {
       <Routes>
       </Routes>
     </BrowserRouter>
+
 
   );
 }

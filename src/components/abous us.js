@@ -1,6 +1,6 @@
 import React from "react";
 
-export function MainPage() {
+export function AboutUs() {
   return (
     <div className="main">
       <img className="image" src="image (1).png" alt="Main visual" />
